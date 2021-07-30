@@ -1,4 +1,4 @@
-# Pneumonia Classifier
+# Sign Language Classifier
 
 **Name:** Sign Language Classifier
 
